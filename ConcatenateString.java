@@ -1,5 +1,5 @@
 package Assignments;
-
+//comment
 import java.util.Scanner;
 public class ConcatenateString {
     public static void main(String[] args) {
